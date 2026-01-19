@@ -26,5 +26,5 @@ My mailing lists:
 - https://groups.google.com/u/2/g/dawne-czcionki
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
